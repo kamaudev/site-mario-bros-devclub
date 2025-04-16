@@ -5,4 +5,5 @@ button{
     color: white;
     background-color: #c51111;
     border-radius: 3px;
+    border: none;
 }
