@@ -1,7 +1,8 @@
-.logo-mario{
+.logo-mario {
     height: 200px;
 }
-button{
+
+button {
     color: white;
     background-color: #c51111;
     border-radius: 3px;
@@ -13,12 +14,18 @@ button{
     font-weight: bold;
 
 }
-.imagem-mario-luigi{
+
+.imagem-mario-luigi {
     height: 500px;
 }
-body{
+
+body {
     display: flex;
     align-items: center;
     padding: 100px;
     height: 100vh;
+}
+
+.caixa-principal {
+    width: 50%;
 }
