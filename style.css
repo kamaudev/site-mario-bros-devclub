@@ -30,3 +30,7 @@ body {
 .caixa-principal {
     width: 40%;
 }
+.caixa-video{
+    position: fixed;
+    z-index: -1;
+}
