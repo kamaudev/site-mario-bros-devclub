@@ -20,13 +20,12 @@ button {
 }
 
 body {
-  
+    height: 100vh;
 }
 .caixa-mae{
     display: flex;
     align-items: center;
     padding: 100px;
-    height: 100vh;
     justify-content: space-around;
 
 }
