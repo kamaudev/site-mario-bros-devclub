@@ -24,9 +24,9 @@ body {
     align-items: center;
     padding: 100px;
     height: 100vh;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .caixa-principal {
-    width: 50%;
+    width: 40%;
 }
