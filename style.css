@@ -1,8 +1,9 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
 .logo-mario {
     height: 200px;
 }
@@ -27,26 +28,33 @@ button {
 body {
     height: 100vh;
 }
-.caixa-mae{
+
+.caixa-mae {
     display: flex;
     align-items: center;
     padding: 100px;
     justify-content: space-around;
 
 }
+
 .caixa-principal {
     width: 40%;
 }
-.caixa-video{
+
+.caixa-video {
     position: fixed;
     z-index: -1;
     top: 0;
 }
-video{
+
+video {
     width: 100vw;
 }
-.mascara{
+
+.mascara {
     width: 100vw;
     height: 100vh;
     background: linear-gradient(109deg, rgba(10, 12, 16, 0.99) 15%, rgba(10, 12, 16, 0.7) 50%, rgba(10, 12, 16, 0.99) 85%);
+    position: fixed;
+    top: 0;
 }
