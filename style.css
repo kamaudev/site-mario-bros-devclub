@@ -16,3 +16,6 @@ button{
 .imagem-mario-luigi{
     height: 500px;
 }
+body{
+    display: flex;
+}
