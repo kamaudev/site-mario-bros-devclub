@@ -20,17 +20,23 @@ button {
 }
 
 body {
+  
+}
+.caixa-mae{
     display: flex;
     align-items: center;
     padding: 100px;
     height: 100vh;
     justify-content: space-around;
-}
 
+}
 .caixa-principal {
     width: 40%;
 }
 .caixa-video{
     position: fixed;
     z-index: -1;
+}
+video{
+    width: 100vw;
 }
