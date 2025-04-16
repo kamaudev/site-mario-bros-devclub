@@ -11,4 +11,8 @@ button{
     cursor: pointer;
     text-transform: uppercase;
     font-weight: bold;
+
+}
+.imagem-mario-luigi{
+    height: 500px;
 }
