@@ -66,7 +66,17 @@ video {
     right: 20px;
     bottom: 20px;
 }
-header img{
-    height: 60px;
+.header{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin: 30px;
+    
 
+}
+.header img{
+    height: 60px;
+}
+.header a{
+    color: white;
 }
