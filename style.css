@@ -61,5 +61,8 @@ video {
     top: 0;
 }
 .link-whatsapp img{
-    height: 100px;
+    height: 60px;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
 }
