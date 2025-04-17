@@ -71,7 +71,7 @@ video {
     align-items: center;
     gap: 30px;
     margin: 30px;
-    
+
 
 }
 .header img{
@@ -79,4 +79,10 @@ video {
 }
 .header a{
     color: white;
+    font-size: 24px;
+    cursor: pointer;
+}
+.header a:hover{
+    color: #c51111;
+    font-size: 26px;
 }
