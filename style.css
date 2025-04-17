@@ -87,3 +87,8 @@ video {
     font-size: 26px;
     transition: 0.5s  ease-in-out;
 }
+button:hover{
+    font-size:10px;
+    background-color: green;
+    transition: 0.5s ease-in-out;
+} 
