@@ -85,4 +85,5 @@ video {
 .header a:hover{
     color: #c51111;
     font-size: 26px;
+    transition: 1s  ease-in-out;
 }
