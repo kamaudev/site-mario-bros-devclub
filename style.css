@@ -95,7 +95,7 @@ video {
 
 button:hover {
     font-size: 10px;
-    background-color: green;
+    background-color: #18d80f;
     transition: 0.5s ease-in-out;
 }
 
@@ -109,4 +109,12 @@ button:hover {
     padding: 50px;
     border-radius: 5px;
     gap: 20px;
+}
+input{
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding-left: 5px;
+    outline-color: #18d80f;
+
 }
