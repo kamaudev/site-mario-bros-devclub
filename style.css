@@ -104,8 +104,8 @@ button:hover {
     display: flex;
     flex-direction: column;
     position: fixed;
-    left: 50px;
-    top: 50px;
+    left: -300px;
+    top: 30%px;
     padding: 50px;
     border-radius: 5px;
     gap: 20px;
