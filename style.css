@@ -60,13 +60,15 @@ video {
     position: fixed;
     top: 0;
 }
-.link-whatsapp img{
+
+.link-whatsapp img {
     height: 60px;
     position: fixed;
     right: 20px;
     bottom: 20px;
 }
-.header{
+
+.header {
     display: flex;
     align-items: center;
     gap: 30px;
@@ -74,21 +76,37 @@ video {
 
 
 }
-.header img{
+
+.header img {
     height: 60px;
 }
-.header a{
+
+.header a {
     color: white;
     font-size: 24px;
     cursor: pointer;
 }
-.header a:hover{
+
+.header a:hover {
     color: #c51111;
     font-size: 26px;
-    transition: 0.5s  ease-in-out;
+    transition: 0.5s ease-in-out;
 }
-button:hover{
-    font-size:10px;
+
+button:hover {
+    font-size: 10px;
     background-color: green;
     transition: 0.5s ease-in-out;
-} 
+}
+
+.formulario-fale-conosco {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    left: 50px;
+    top: 50px;
+    padding: 50px;
+    border-radius: 5px;
+    gap: 20px;
+}
