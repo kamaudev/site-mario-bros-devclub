@@ -101,14 +101,13 @@ button:hover {
     background-color: #18d80f;
     transition: 0.5s ease-in-out;
 }
-
 .formulario-fale-conosco {
     background-color: white;
     display: flex;
     flex-direction: column;
     position: fixed;
-    left: -300px;
-    top: 30%px;
+    left: -350px;
+    top: 30%;
     padding: 50px;
     border-radius: 5px;
     gap: 20px;
