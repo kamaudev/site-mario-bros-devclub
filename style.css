@@ -71,6 +71,7 @@ video {
     bottom: 20px;
 }
 
+
 .header {
     display: flex;
     align-items: center;
@@ -97,10 +98,11 @@ video {
 }
 
 button:hover {
-    font-size: 10px;
+    font-size: 15px;
     background-color: #18d80f;
     transition: 0.5s ease-in-out;
 }
+
 .formulario-fale-conosco {
     background-color: white;
     display: flex;
@@ -137,5 +139,5 @@ textarea {
     width: 100vw;
     height: 100vh;
     background-color: linear-gradient(109deg, rgba(10, 12, 16, 0.99) 15%, rgba(10, 12, 16, 0.7) 50%, rgba(10, 12, 16, 0.99) 85%);
-
+    pointer-events: none;
 }
