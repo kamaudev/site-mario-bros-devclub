@@ -6,7 +6,7 @@ function mostrarForm() {
     form.style.transform = "translateX(-50%)"
     mascara.style.visibility = "visible"
 }
-function cliqueiNaMascara(){
+function esconderForm(){
     mascara.style.visibility = "hidden"
     form.style.left = "-350px"
     form.style.transform = "translateX(0)"
