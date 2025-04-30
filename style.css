@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+/*Estilo da página principal*/
 
 .logo-mario {
     height: 200px;
@@ -151,6 +152,7 @@ textarea {
     background: linear-gradient(109deg, rgba(10, 12, 16, 0.99) 15%, rgba(10, 12, 16, 0.7) 50%, rgba(10, 12, 16, 0.99) 85%);
     transition: visibility 1s ease-in-out;
 }
+/*Estilo da página de serviços*/
 
 @media(max-width: 1100px) {
     .logo-mario {
