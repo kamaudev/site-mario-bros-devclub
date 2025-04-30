@@ -161,9 +161,11 @@ textarea {
     font-size: 25px;
     font-weight: bold;
     color: #c51111;
-
-
 }
+.imagem-luigi {
+        height: 400px;
+    }
+
 
 
 @media(max-width: 1100px) {
@@ -195,9 +197,15 @@ textarea {
     }
 
     .imagem-mario-luigi {
-        width: 65vw;
+        width: 40vw;
         height: auto;
     }
+    .imagem-luigi{
+        width: 30vw;
+        height: auto;
+        margin-top: 10px;
+    }
+  
 
     .header {
         margin: 10px;
@@ -212,9 +220,15 @@ textarea {
     }
 
     .header a {
-        font-size: 20px;
+        font-size: 18px;
 
     }
+    .header a:hover {
+        color: #c51111;
+        font-size: 22px;
+        transition: 0.5s ease-in-out;
+    }
+    
 
     button {
         margin-top: 10px;
