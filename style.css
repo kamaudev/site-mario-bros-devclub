@@ -42,7 +42,7 @@ body {
 .caixa-mae {
     display: flex;
     align-items: center;
-    padding: 100px;
+    padding: 40px;
     justify-content: space-around;
 
 }
