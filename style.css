@@ -172,7 +172,6 @@ textarea {
 
 }
 
-
 @media(max-width: 1100px) {
     .logo-mario {
         height: 100px;
@@ -184,6 +183,19 @@ textarea {
         text-align: center;
         width: 300px;
         margin-top: 10px;
+    }
+    .p-servicos{
+        font-size: 14px;
+        display: block;
+        text-align: left;
+        width: 300px;
+        margin-top: 10px;
+    }
+    .intro h2 {
+        font-size: 20px;
+        margin-bottom: 20px;
+        width: 250px;
+        text-align: center;
     }
 
     .caixa-mae {
@@ -207,9 +219,9 @@ textarea {
     }
 
     .imagem-luigi {
-        width: 30vw;
+        width:25vw;
         height: auto;
-        margin-top: 10px;
+        margin-top: 5px;
     }
 
 
